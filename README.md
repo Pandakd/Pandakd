@@ -9,7 +9,7 @@
   </a>
 </p>
 <h3 align="center">Bachelor of Design (Interaction Design) and Bachelor of Information Technology (Computer Science)</h3>
-<table>
+<table align="center">
     <thead>
         <th>
             Skills
@@ -130,5 +130,5 @@
     <img src="https://skillicons.dev/icons?i=bash,cs,cpp,css,dotnet,java,js,nodejs,powershell,py,regex" />
   </a>
 </p>
-<h4 align="center"><b>Contact:</b> PANDA.#0101 (DISCORD)</h4>
+<h4 align="center">PANDA.#0101 (DISCORD)</h4>
 </div>
