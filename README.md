@@ -34,14 +34,6 @@ github-readme-stats is having some issues atm...
 
 <br/>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pandakd&langs_count=5" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pandakd&count_private=true&show_icons=true" />
-</a>
-
-
 <div class="image" align="center">
 <br>
 <img src="images/main.gif" alt="header"/>
