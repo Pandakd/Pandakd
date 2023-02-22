@@ -5,7 +5,7 @@
 <h4 align="center">What I am using</h4>
 <p align="center">
   <a href="https://github.com/Pandakd">
-    <img src="https://skillicons.dev/icons?i=ae,au,ps,ai,dotnet,firebase,js,py,webflow,xd,discord,mongodb,raspberrypi,visualstudio,vscode" />
+    <img src="https://skillicons.dev/icons?i=ae,au,ps,ai,xd,webflow,discord,js,py,dotnet,firebase,mongodb,raspberrypi,visualstudio,vscode" />
   </a>
 </p>
 <h3 align="center">Bachelor of Design (Interaction Design) and Bachelor of Information Technology (Computer Science)</h3>
@@ -109,7 +109,7 @@
 <h4 align="center">What I am learning</h4>
 <p align="center">
   <a href="https://github.com/Pandakd">
-    <img src="https://skillicons.dev/icons?i=bash,cs,raspberrypi,css,dotnet,java,js,swift,raspberrypi,py,regex" />
+    <img src="https://skillicons.dev/icons?i=bash,cs,css,java,js,py,swift,regex,raspberrypi" />
   </a>
 </p>
 <h4 align="center">PANDA.#0101 (DISCORD)</h4>
