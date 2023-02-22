@@ -8,8 +8,10 @@
     <img src="https://skillicons.dev/icons?i=ae,arduino,cloudflare,discord,docker,git,github,mongodb,pr,raspberrypi,tensorflow,unity,visualstudio,vscode" />
   </a>
 </p>
+<br/>
 💬 Contact: **PANDA.#0101** (*DISCORD*)
 🔭 Studying: **Bachelor of Design (Interaction Design) and Bachelor of Information Technology (Computer Science)**
+<br/>
 <table>
     <thead>
         <th>
@@ -131,6 +133,4 @@
     <img src="https://skillicons.dev/icons?i=bash,cs,cpp,css,dotnet,java,js,nodejs,powershell,py,regex" />
   </a>
 </p>
-<br/>
-<br/>
 </div>
