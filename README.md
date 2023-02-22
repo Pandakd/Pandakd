@@ -5,7 +5,7 @@
 <h4 align="center">What I am using</h4>
 <p align="center">
   <a href="https://github.com/Pandakd">
-    <img src="https://skillicons.dev/icons?i=ae,au,ps,aidotnet,firebase,js,py,webflow,xd,discord,github,mongodb,raspberrypi,visualstudio,vscode" />
+    <img src="https://skillicons.dev/icons?i=ae,au,ps,ai,dotnet,firebase,js,py,webflow,xd,discord,github,mongodb,raspberrypi,visualstudio,vscode" />
   </a>
 </p>
 <h3 align="center">Bachelor of Design (Interaction Design) and Bachelor of Information Technology (Computer Science)</h3>
