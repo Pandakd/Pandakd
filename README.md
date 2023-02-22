@@ -9,8 +9,10 @@
   </a>
 </p>
 <br/>
+<p>
 💬 Contact: **PANDA.#0101** (*DISCORD*)
 🔭 Studying: **Bachelor of Design (Interaction Design) and Bachelor of Information Technology (Computer Science)**
+</p>
 <br/>
 <table>
     <thead>
