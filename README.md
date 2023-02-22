@@ -15,7 +15,7 @@
             Skills
         </th>
         <th>
-            badge
+            Experienced
         </th>
     </thead>
     <tbody>
@@ -47,7 +47,7 @@
                 <img src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white" alt="wordpress">
                 <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="github">
                 <img src="https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="google sites">
-                <img src="(https://img.shields.io/badge/Adobe%20Dreamweaver-FF61F6.svg?style=for-the-badge&logo=Adobe%20Dreamweaver&logoColor=white" alt="dreamweaver">
+                <img src="https://img.shields.io/badge/Adobe%20Dreamweaver-FF61F6.svg?style=for-the-badge&logo=Adobe%20Dreamweaver&logoColor=white" alt="dreamweaver">
             </td>
         </tr>
         <tr>
