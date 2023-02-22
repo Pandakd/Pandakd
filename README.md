@@ -8,11 +8,7 @@
     <img src="https://skillicons.dev/icons?i=ae,arduino,cloudflare,discord,docker,git,github,mongodb,pr,raspberrypi,tensorflow,unity,visualstudio,vscode" />
   </a>
 </p>
-<br/>
-<p>
-<h4 align="center">Bachelor of Design (Interaction Design) and Bachelor of Information Technology (Computer Science)</h4>
-</p>
-<br/>
+<h3 align="center">Bachelor of Design (Interaction Design) and Bachelor of Information Technology (Computer Science)</h3>
 <table>
     <thead>
         <th>
@@ -134,5 +130,5 @@
     <img src="https://skillicons.dev/icons?i=bash,cs,cpp,css,dotnet,java,js,nodejs,powershell,py,regex" />
   </a>
 </p>
-Contact: PANDA.#0101 (DISCORD)
+<h4 align="center"><b>Contact:</b> PANDA.#0101 (DISCORD)</h4>
 </div>
