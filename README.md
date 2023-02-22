@@ -2,10 +2,10 @@
 
 <h3 align="center">A passionate Web Designer from Australia</h3>
 
-<h4 align="center">The Tools I Can Use</h4>
+<h4 align="center">What I am using</h4>
 <p align="center">
   <a href="https://github.com/Pandakd">
-    <img src="https://skillicons.dev/icons?i=ae,au,aws,eclipse,dotnet,firebase,ai,js,ps,py,webflow,xd,arduino,cloudflare,discord,git,github,mongodb,raspberrypi,unity,visualstudio,vscode" />
+    <img src="https://skillicons.dev/icons?i=ae,au,ps,aidotnet,firebase,js,py,webflow,xd,discord,github,mongodb,raspberrypi,visualstudio,vscode" />
   </a>
 </p>
 <h3 align="center">Bachelor of Design (Interaction Design) and Bachelor of Information Technology (Computer Science)</h3>
@@ -106,10 +106,10 @@
     </tbody>
 </table>
 
-<h4 align="center">Languages I am Currently Using</h4>
+<h4 align="center">What I am learning</h4>
 <p align="center">
   <a href="https://github.com/Pandakd">
-    <img src="https://skillicons.dev/icons?i=bash,cs,cpp,css,dotnet,java,js,nodejs,powershell,py,regex" />
+    <img src="https://skillicons.dev/icons?i=bash,cs,raspberrypi,css,dotnet,java,js,swift,raspberrypi,py,regex" />
   </a>
 </p>
 <h4 align="center">PANDA.#0101 (DISCORD)</h4>
