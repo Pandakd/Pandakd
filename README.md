@@ -8,9 +8,8 @@
     <img src="https://skillicons.dev/icons?i=ae,arduino,cloudflare,discord,docker,git,github,mongodb,pr,raspberrypi,tensorflow,unity,visualstudio,vscode" />
   </a>
 </p>
-
-🔭 I am currently at University Studying a: **Bachelor of Design (Interaction Design) and Bachelor of Information Technology (Computer Science)**
-
+💬 Contact: **PANDA.#0101** (*DISCORD*)
+🔭 Studying: **Bachelor of Design (Interaction Design) and Bachelor of Information Technology (Computer Science)**
 <table>
     <thead>
         <th>
@@ -133,6 +132,5 @@
   </a>
 </p>
 <br/>
-💬 Contact: **PANDA.#0101** (*DISCORD*)
 <br/>
 </div>
