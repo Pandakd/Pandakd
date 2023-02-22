@@ -5,7 +5,7 @@
 <h4 align="center">The Tools I Can Use</h4>
 <p align="center">
   <a href="https://github.com/Pandakd">
-    <img src="https://skillicons.dev/icons?i=ae,arduino,cloudflare,discord,docker,git,github,mongodb,pr,raspberrypi,tensorflow,unity,visualstudio,vscode" />
+    <img src="https://skillicons.dev/icons?i=ae,au,aws,eclipse,dotnet,firebase,ai,js,ps,py,webflow,xd,arduino,cloudflare,discord,git,github,mongodb,raspberrypi,unity,visualstudio,vscode" />
   </a>
 </p>
 <h3 align="center">Bachelor of Design (Interaction Design) and Bachelor of Information Technology (Computer Science)</h3>
