@@ -9,6 +9,8 @@
   </a>
 </p>
 
+🔭 I am currently at University Studying a: **Bachelor of Design (Interaction Design) and Bachelor of Information Technology (Computer Science)**
+
 <table>
     <thead>
         <th>
@@ -130,23 +132,7 @@
     <img src="https://skillicons.dev/icons?i=bash,cs,cpp,css,dotnet,java,js,nodejs,powershell,py,regex" />
   </a>
 </p>
-
-<!--
-github-readme-stats is having some issues atm...
-<a href="https://github.com/B0N3head">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=B0N3head&theme=dark" />
-</a>
--->
-
 <br/>
-
-😄 Pronouns: **HE/HIM**
-
 💬 Contact: **PANDA.#0101** (*DISCORD*)
-
-🔭 I am currently at University Studying a: **Bachelor of Design (Interaction Design) and Bachelor of Information Technology (Computer Science)**
-
-💪 I’m currently learning: **how to set up industry level networks**
-
 <br/>
 </div>
