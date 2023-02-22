@@ -10,8 +10,7 @@
 </p>
 <br/>
 <p>
-💬 Contact: **PANDA.#0101** (*DISCORD*)
-🔭 Studying: **Bachelor of Design (Interaction Design) and Bachelor of Information Technology (Computer Science)**
+<h4 align="center">Bachelor of Design (Interaction Design) and Bachelor of Information Technology (Computer Science)</h4>
 </p>
 <br/>
 <table>
@@ -135,4 +134,5 @@
     <img src="https://skillicons.dev/icons?i=bash,cs,cpp,css,dotnet,java,js,nodejs,powershell,py,regex" />
   </a>
 </p>
+Contact: PANDA.#0101 (DISCORD)
 </div>
