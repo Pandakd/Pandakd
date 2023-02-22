@@ -109,7 +109,7 @@
 <h4 align="center">What I am learning</h4>
 <p align="center">
   <a href="https://github.com/Pandakd">
-    <img src="https://skillicons.dev/icons?i=bash,cs,css,java,js,py,swift,regex,raspberrypi" />
+    <img src="https://skillicons.dev/icons?i=bash,cs,css,js,java,py,swift,regex,raspberrypi" />
   </a>
 </p>
 <h4 align="center">PANDA.#0101 (DISCORD)</h4>
