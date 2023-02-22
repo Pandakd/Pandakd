@@ -1,17 +1,41 @@
-Hi there 👋
+h1 align="center">Hi, I'm PANDA.</h1>
+
+<h3 align="center">A passionate Web Designer from Australia</h3>
+<h4 align="center">The Tools I Can Use</h4>
+<p align="center">
+  <a href="https://github.com/Pandakd">
+    <img src="https://skillicons.dev/icons?i=ae,arduino,cloudflare,discord,docker,git,github,mongodb,pr,raspberrypi,tensorflow,unity,visualstudio,vscode" />
+  </a>
+</p>
+
+<h4 align="center">Languages I am Currently Using</h4>
+<p align="center">
+  <a href="https://github.com/Pandakd">
+    <img src="https://skillicons.dev/icons?i=bash,cs,cpp,css,dotnet,java,js,nodejs,powershell,py,regex" />
+  </a>
+</p>
+
+<!--
+github-readme-stats is having some issues atm...
+<a href="https://github.com/B0N3head">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=B0N3head&theme=dark" />
+</a>
+-->
+
+<br/>
+
+😄 Pronouns: HE/HIM
+
+💬 Contact: **PANDA.#0101** (*DISCORD*)
+
+🔭 I am currently at University Studying a: **Bachelor of Design (Interaction Design) and Bachelor of Information Technology (Computer Science)**
+
+💪 I’m currently learning: **how to set up industry level networks**
+
+<br/>
 
 Pandakd/Pandakd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-##Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
 <div class="image" align="center">
 <br>
