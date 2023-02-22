@@ -1,4 +1,4 @@
-h1 align="center">Hi, I'm PANDA.</h1>
+<h1 align="center">Hi, I'm PANDA.</h1>
 
 <h3 align="center">A passionate Web Designer from Australia</h3>
 <h4 align="center">The Tools I Can Use</h4>
@@ -24,7 +24,7 @@ github-readme-stats is having some issues atm...
 
 <br/>
 
-😄 Pronouns: HE/HIM
+😄 Pronouns: **HE/HIM**
 
 💬 Contact: **PANDA.#0101** (*DISCORD*)
 
